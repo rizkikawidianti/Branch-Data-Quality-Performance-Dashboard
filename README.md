@@ -212,3 +212,7 @@ The main value is that stakeholders can:
 - Reporting quality control
 - Management-ready insight delivery
 - VERIFY Framework application
+
+## Mockup UI
+<img width="1672" height="941" alt="ChatGPT Image Jul 2, 2026, 07_40_33 PM" src="https://github.com/user-attachments/assets/94749285-2928-4894-9182-3559cbaba147" />
+
